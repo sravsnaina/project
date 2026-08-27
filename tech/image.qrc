@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/Ensteinlogo.png</file>
+        <file>Part1.qml</file>
+    </qresource>
+</RCC>

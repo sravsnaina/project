@@ -1,0 +1,5 @@
+[project]
+name = "PySide QtQuick Project"
+
+[tool.pyside6-project]
+files = ["LogModel.py", "Production_model.py", "backend.py", "config.json", "counts.json", "gpio_controller.py", "main.py", "paths.py", "serial_receiver.py", "tech/Main.qml", "tech/Part1.qml", "tech/Part2.qml", "tech/Part3.qml", "tech/Part4.qml", "tech/ProductionReport.qml", "tech/contents/Logs.qml", "tech/image.qrc", "tech/qmldir"]

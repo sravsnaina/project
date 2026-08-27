@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Name=Production Line Monitor
+Comment=Production line monitoring app (GPIO + camera serial link)
+Exec=/home/pi/tech/dist/main
+Icon=/home/pi/tech/tech/images/Ensteinlogo.png
+Terminal=false
+Categories=Utility;

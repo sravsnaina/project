@@ -1,0 +1,7 @@
+build/
+dist/
+.qtcreator/
+.venv/
+venv/
+__pycache__/
+*.pyc
