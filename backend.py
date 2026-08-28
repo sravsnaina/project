@@ -5,7 +5,7 @@ from datetime import datetime                                    # timestamps fo
 
 from PySide6.QtCore import QObject, Property, QCoreApplication, Signal, Slot  # Qt/QML integration primitives
 //this are the changes i have done
-
+//change in branch
 class Backend(QObject):                                          # central object exposed to QML as `backend`
 
     schemeReadyChanged = Signal(bool)                             # QML-bound: camera scheme ready to trigger
