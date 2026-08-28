@@ -7,6 +7,7 @@ from PySide6.QtCore import QObject, Property, QCoreApplication, Signal, Slot  # 
 //this are the changes i have done
 //change from main bracnch
 //change in branch
+#changes in main
 
 class Backend(QObject):                                          # central object exposed to QML as `backend`
 
