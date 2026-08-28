@@ -20,7 +20,7 @@ from paths import app_dir                                     # resolves app dir
 # from tech/image.qrc. Importing it runs its qInitResources() call.
 sys.path.insert(0, str(Path(__file__).parent / "tech"))       # add tech/ to import path so rc_image.py can be found
 
-
+//changes
 class _StreamToLog:
     """Mirrors writes to the original stream (so a terminal run still
     shows live output) and to the log file, so nothing is lost when the
