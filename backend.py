@@ -4,7 +4,7 @@ import sys                                                       # frozen check,
 from datetime import datetime                                    # timestamps for log rows
 
 from PySide6.QtCore import QObject, Property, QCoreApplication, Signal, Slot  # Qt/QML integration primitives
-
+//this are the changes i have done
 
 class Backend(QObject):                                          # central object exposed to QML as `backend`
 
